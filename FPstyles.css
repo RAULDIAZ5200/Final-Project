@@ -1,0 +1,98 @@
+
+#title{
+  background-color: rgb(252, 253, 253);
+}
+
+h1 {
+  font-family: 'mukta';
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: rgb(0, 0, 0);
+}
+
+.about{
+  font-size: 100px;
+  font-family: 'Fuzzy Bubbles';
+}
+
+h2{
+  color: #fff;
+  font-family: 'Fuzzy Bubbles';
+  font-size: 1.5;
+  font-weight: bold;
+}
+
+
+
+p{
+  color: rgb(0, 0, 0);
+  font-family: 'Rubik';
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding-bottom: 0px 0px 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Fuzzy Bubbles';
+  font-size: 4rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar-item {
+  padding: 0px 18px;
+  font-size: 2rem;
+  font-family: 'Rubik';
+  color: #fff;
+}
+
+.navbar-link{
+  font-family: 'Rubik';
+  font-size: 1.5rem;
+}
+
+.col-1{
+  color: #fff;
+}
+
+.card-img{
+  width: 25%
+  height: 25%
+}
+
+#projects {
+  padding: 100px;
+  text-align: center;
+  background-color: tan;
+}
+
+.projects-header{
+  color:black;
+}
+
+.projects-coloumn{
+  padding: 3% 2%;
+}
+
+.btnc{
+  background-color: teal;
+}
+
+#About{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: tan;
+}
+
+/*Media Query*/
+@media (max-width: 1028px){ 
+
+  #title {
+    text-align: center;
+  }
+}
